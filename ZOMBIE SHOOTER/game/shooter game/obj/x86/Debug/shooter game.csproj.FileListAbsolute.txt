@@ -1,0 +1,23 @@
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\obj\x86\Debug\shooter_game.Form1.resources
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\obj\x86\Debug\shooter_game.Properties.Resources.resources
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\obj\x86\Debug\shooter game.csproj.GenerateResource.Cache
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\bin\Debug\shooter game.exe
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\bin\Debug\shooter game.pdb
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\obj\x86\Debug\shooter game.exe
+c:\users\prasa\onedrive\documents\visual studio 2010\Projects\shooter game\shooter game\obj\x86\Debug\shooter game.pdb
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter game.exe
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter game.pdb
+G:\SDT ZOMBIE SHOOTE\game\shooter game\bin\Debug\shooter game.exe
+G:\SDT ZOMBIE SHOOTE\game\shooter game\bin\Debug\shooter game.pdb
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\Shooter Game.csprojResolveAssemblyReference.cache
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter_game.Form1.resources
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter_game.Properties.Resources.resources
+G:\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\Shooter Game.csproj.GenerateResource.Cache
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter game.exe
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter game.pdb
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\bin\Debug\shooter game.exe
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\bin\Debug\shooter game.pdb
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\Shooter Game.csprojResolveAssemblyReference.cache
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter_game.Form1.resources
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\shooter_game.Properties.Resources.resources
+D:\SDT ZOMBIE SHOOTE\SDT ZOMBIE SHOOTE\game\shooter game\obj\x86\Debug\Shooter Game.csproj.GenerateResource.Cache
